@@ -40,7 +40,9 @@ namespace Lucaciu_Vlad_FreeTime
             // t = n-(a+b+c+d+e)
             Console.WriteLine("Timpul liber ramas este : {0}-({1}+{2}+{3}+{4}+{5}) = {6} ", n,a,b,c,d,e,t);
 
+            Console.WriteLine("Press any key to exit..");
             Console.ReadLine();
+
         }
         
     }
